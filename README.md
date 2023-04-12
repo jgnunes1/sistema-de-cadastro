@@ -6,7 +6,6 @@
 
 para rodar esse projeto na sua máquina, po favor digite:
 
-'''
+...
 node app.js
-
-'''
+...
